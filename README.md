@@ -15,9 +15,9 @@ Kelompok 2 :
 
 <br><b>Pembagian Tugas per Individu :</b>
 1. Ega Sulfika = Mengkonfigurasi DHT11 pada Master Node
-2. Mitha Amalia = Mengkonfigurasi kodingan Edge Node
-3. Alan Nuzulan = Membuat Board Schematic dan Mengkonfigurasi Sensor Api pada Master Node
-4. Muhammad Rizky Nilzamyahya = Konfigurasi Platform IoT MQTT Panel
+2. Mitha Amalia = Konfigurasi Platform IoT MQTT Panel
+3. Alan Nuzulan = Membuat Board Schematic dan Mengkonfigurasi Edge Node
+4. Muhammad Rizky Nilzamyahya = Mengkonfigurasi Sensor Api pada Master Node
 
 
 <br><b>Komponen yang Digunakan :</b>
