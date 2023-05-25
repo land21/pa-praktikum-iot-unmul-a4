@@ -32,9 +32,9 @@ Kelompok 2 :
 
 <br><b>Board Schematic (Fritzing ) :</b>
 1. Master Node 
-<br><img src="https://user-images.githubusercontent.com/69804370/236658677-e3f76e87-e86e-47ba-ae84-3a7c8a89482b.jpg" alt="Publisher" style="height:400px;"><br>
+<br><img src="https://github.com/land21/pa-praktikum-iot-unmul-a4/assets/69804370/ee446763-3a4b-44d6-a56f-83a913174d26" alt="Publisher" style="height:400px;"><br>
 
 2. Edge Node
-<br><img src="https://user-images.githubusercontent.com/69804370/236658991-3bf5202e-a6f9-4cda-9e0a-7ed9e54e7dc8.jpg" alt="Subsriber" style="height:400px;">
+<br><img src="https://github.com/land21/pa-praktikum-iot-unmul-a4/assets/69804370/aa6c5b8a-f4e8-4e7a-8717-84d4d8097075" alt="Subsriber" style="height:400px;">
 
 <br><br><br>@2023
