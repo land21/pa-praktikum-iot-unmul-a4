@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // Mengatur SSID dan Password Jaringan yang di pakai
-const char* ssid = "MITHA";
-const char* password = "mithew13";
+const char* ssid = "Universitas Mulawarman";
+const char* password = "";
 
 // server Mqtt broker
 const char* mqtt_server = "broker.hivemq.com";
